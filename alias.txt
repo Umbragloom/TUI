@@ -4,7 +4,7 @@
 =play store
 =com.android.settings
 =brave
-=messeges 
+=messages 
 =telegram
 =gmail
 =YouTube
