@@ -14,8 +14,8 @@
 
 <!-- ENABLED -->
 
-<org.telegram.messenger enabled="true" color="#FF0088cc" format="1"/>
-<com.whatsapp enabled="true" color="#FF50fa7b" format="2"/>
+<com.messeges enabled="true" color="#FF0088cc" format="1"/>
+<com.messages enabled="true" color="#FF50fa7b" format="2"/>
 <com.twitter.android enabled="true" color="#FF01C9FC" format="3"/>
 <com.instagram.android enabled="true" color="#FFFC01C9" format="4"/>
 

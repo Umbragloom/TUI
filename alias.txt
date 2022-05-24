@@ -1,18 +1,14 @@
-=telefono
-=messaggi
-=com.miui.gallery
-=com.android.camera
+=phone
+=messages
+=gallery
+=camera
 =play store
 =com.android.settings
-=firefox
-=whatsapp 
+=brave
 =telegram
 =gmail
-=adguard
 =YouTube
-=Spotify
 =Twitter
-=Twitch
 icons=cat t-ui/icons.txt
 cerca=search -u https://www.google.com/search?q=%
 fl=flash
