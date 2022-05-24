@@ -14,8 +14,8 @@
 
 <!-- ENABLED -->
 
-<com.messeges enabled="true" color="#FF0088cc" format="1"/>
-<com.messages enabled="true" color="#FF50fa7b" format="2"/>
+<org.telegram.messenger enabled="true" color="#FF0088cc" format="1"/>
+<com.whatsapp enabled="true" color="#FF50fa7b" format="2"/>
 <com.twitter.android enabled="true" color="#FF01C9FC" format="3"/>
 <com.instagram.android enabled="true" color="#FFFC01C9" format="4"/>
 
@@ -67,16 +67,8 @@
  <!-- Termux  -->
 
 <!-- DISABLED -->
-		
 	
-	<!--╰───────────────────────────────────────────────────╯-->
-
 <filter id="-1" value="null %nnull"/>
-<filter id="-1" value="WhatsApp %nControllo nuovi messaggi in corso"/>
-<filter id="-1" value="Messaggi è in esecuzione %nTocca per ulteriori informazioni o per interrompere l'app."/>
-<filter id="-1" value=" %app :: %t1 %n╚═⌬ WhatsApp : Controllo nuovi messaggi in corso"/>
-<filter id="-1" value=" %app :: %t1 %n╚═⌬ WhatsApp Web : WhatsApp Web attualmente attivo"/>
-<filter id="-1" value=" %app :: %t1 %n╚═⌬ Messaggi è in esecuzione : Tocca per ulteriori informazioni o per interrompere l'app."/>
 <filter id="-1" value=" %app :: %t1 %n╚═⌬ null : null"/>
 </NOTIFICATIONS>
 
