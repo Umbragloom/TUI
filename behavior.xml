@@ -110,7 +110,7 @@ up; 4 = locked before; 5 = unlocked before -->
 <weather_location value=""/>
 <!-- The ID of your country (check the wiki) or your coords separated by a comma (lat,lon) -->
 
-<weather_format value="#[Clear/&#55356;&#57118;][Clouds/☁️][Scattered clouds/☁️][Broken clouds/☁️][Shower rain/&#55356;&#57127;️][Rain/&#55356;&#57127;️][Thunderstorm/&#55356;&#57129;️][Snow/&#55356;&#57128;️][Mist/&#55356;&#57131;️]%main %temp°C"/>
+<weather_format value="#[Clear/&#55356;&#57118;][Clouds/☁️][Scattered clouds/☁️][Broken clouds/☁️][Shower rain/&#55356;&#57127;️][Rain/&#55356;&#57127;️][Thunderstorm/&#55356;&#57129;️][Snow/&#55356;&#57128;️][Mist/&#55356;&#57131;️]%main %temp°F"/>
 <weather_update_time value="1800"/>
 <!-- The weather update time in seconds. This can only be used if you're using a custom weather key -->
 <location_update_mintime value="20"/>
