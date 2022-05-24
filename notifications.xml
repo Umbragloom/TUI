@@ -15,7 +15,7 @@
 <!-- ENABLED -->
 
 <org.telegram.messenger enabled="true" color="#FF0088cc" format="1"/>
-<com.samsung.android.messageing enabled="true" color="#FF50fa7b" format="2"/>
+<com.samsung.android.messaging enabled="true" color="#FF50fa7b" format="2"/>
 <com.twitter.android enabled="true" color="#FF01C9FC" format="3"/>
 <com.discord enabled="true" color="#FFFC01C9" format="4"/>
 
