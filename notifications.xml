@@ -17,7 +17,7 @@
 <org.telegram.messenger enabled="true" color="#FF0088cc" format="1"/>
 <com.samsung.android.messaging enabled="true" color="#FF50fa7b" format="2"/>
 <com.twitter.android enabled="true" color="#FF01C9FC" format="3"/>
-<com.discord enabled="true" color="#FFFC01C9" format="4"/>
+<com.discord enabled="false" color="#FFFC01C9" format="4"/>
 
 <!--com.android.contacts enabled="true" color="#FF8be9fd" format="5"-->
 <!--com.android.dialer enabled="true" color="#FF8be9fd" format="5"-->
@@ -71,5 +71,3 @@
 <filter id="-1" value="null %nnull"/>
 <filter id="-1" value=" %app :: %t1 %n╚═⌬ null : null"/>
 </NOTIFICATIONS>
-
-
